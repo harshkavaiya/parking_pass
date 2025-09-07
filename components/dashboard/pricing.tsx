@@ -1,4 +1,4 @@
-import { Check } from "lucide-react";
+Pricing { Check } from "lucide-react";
 
 type Plan = {
   name: string;
@@ -47,7 +47,7 @@ export function Pricing() {
   return (
     <section id="pricing" className="mx-auto max-w-6xl px-4 py-16 md:py-20">
       <h2 className="text-center text-3xl font-bold md:text-4xl bg-gradient-to-r from-emerald-500 to-cyan-500 bg-clip-text text-transparent">
-        Simple Pricing
+        Simple Pricing(testing)
       </h2>
       <p className="mx-auto mt-3 max-w-2xl text-center text-slate-600 text-lg">
         Choose a plan that fits your parking size.
